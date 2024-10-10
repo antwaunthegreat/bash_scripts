@@ -1,1 +1,1 @@
-# bash_scripts
+This repository is dedicated to BASH scripts
